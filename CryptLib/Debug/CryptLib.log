@@ -1,0 +1,8 @@
+﻿  Base64.cpp
+  CryptWorker.cpp
+C:\Users\OdminPC\source\repos\DPAPISample\CryptLib\CryptWorker.cpp(51,5): warning C4297: 'Encrypt': function assumed not to throw an exception but does
+C:\Users\OdminPC\source\repos\DPAPISample\CryptLib\CryptWorker.cpp(51,5): message : The function is extern "C" and /EHc was specified
+  Generating Code...
+     Creating library C:\Users\OdminPC\source\repos\DPAPISample\Debug\CryptLib.lib and object C:\Users\OdminPC\source\repos\DPAPISample\Debug\CryptLib.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\OdminPC\source\repos\DPAPISample\Debug\CryptLib.exe : fatal error LNK1120: 1 unresolved externals

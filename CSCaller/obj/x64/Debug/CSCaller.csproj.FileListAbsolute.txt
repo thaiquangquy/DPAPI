@@ -1,0 +1,6 @@
+F:\workspace\requirement\DPAPISample\CSCaller\bin\x64\Debug\CSCaller.exe
+F:\workspace\requirement\DPAPISample\CSCaller\bin\x64\Debug\CSCaller.pdb
+F:\workspace\requirement\DPAPISample\CSCaller\obj\x64\Debug\CSCaller.csprojAssemblyReference.cache
+F:\workspace\requirement\DPAPISample\CSCaller\obj\x64\Debug\CSCaller.csproj.CoreCompileInputs.cache
+F:\workspace\requirement\DPAPISample\CSCaller\obj\x64\Debug\CSCaller.exe
+F:\workspace\requirement\DPAPISample\CSCaller\obj\x64\Debug\CSCaller.pdb
